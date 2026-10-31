@@ -2,7 +2,7 @@
 ## Sistema de Agendamento Automático de Ordens de Serviço (ISP)
 
 **Versão:** 1.0 (Documento inicial)
-**Stack proposta:** C# (.NET 8), PostgreSQL, EF Core
+**Stack proposta:** C# (.NET 8), PostgreSQL, EF Core, React + Vite
 **Integração externa:** Hubsoft
 
 ---
